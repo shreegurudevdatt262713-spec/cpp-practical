@@ -1,1 +1,1 @@
-# cpp-practical
+This repository contains my C++ practical programs and assignments completed during my engineering course. The programs cover important concepts such as OOP, STL, file handling, exception handling, data structures, and basic C++ programming. Each practical is organized separately for easy understanding and execution. The code is written in C++ and can be compiled using a standard C++ compiler such as "g++". This repository is created for learning, practice, revision, and academic submission purposes.# cpp-practical
